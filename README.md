@@ -17,13 +17,18 @@ prepare virtual env =>
     
     $ pip3 install django
     
+    $ mkdir proj_name
+    
+    
     (vir_name) ~$cd proj_name
     
-    (vir_name) proj_name$ cd site_name
+    (vir_name) proj_name$ django-admin startproject site_name_top_level
+    
+    (vir_name) proj_name$ cd site_name_top_level
     
     (vir_name) site_name$ ls
     
-                   sub_site_name/
+                   site_name_sub_level/
                    
                    manage.py
                    
