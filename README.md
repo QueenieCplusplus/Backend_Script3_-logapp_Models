@@ -13,6 +13,10 @@ prepare virtual env =>
 
     ~$ source vir_name/bin/activate
     
+    $ pip list
+    
+    $ pip3 install django
+    
     (vir_name) ~$cd proj_name
     
     (vir_name) proj_name$ cd site_name
