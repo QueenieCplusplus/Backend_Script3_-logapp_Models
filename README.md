@@ -10,6 +10,11 @@ top level site cmd =>
     python manage.py makemigrations
 
     python manage.py migrate
+    
+    
+ db operations =>
+ 
+    python manage.py shell
 
 
 deprecated cmd => https://stackoverflow.com/questions/17392015/error-while-creating-a-model-in-django
