@@ -31,13 +31,13 @@ prepare virtual env =>
     
     (vir_name) site_name$ ls
     
-                   site_name_sub_level/
+                   site_name_sub_level/settings.py + urls.py
                    
                    manage.py
                    
                    (sqlite3 waits to be created)
                    
-                   (blog app waits to be created)/
+                   (blog app waits to be created)/models.py + views.py + admin.py + migration + apps.py
 
 
 top level site cmd => (all manage.py cmd shall run under the top level site dir instead of sub level)
