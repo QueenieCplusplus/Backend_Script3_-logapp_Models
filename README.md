@@ -16,11 +16,11 @@ prepare virtual env =>
     // to leave the virtualenv
     (vir_name) ~$ deactivate 
     
-    $ pip list
+    (vir_name) ~$ pip list
     
-    $ pip3 install django
+    (vir_name) ~$ pip3 install django
     
-    $ mkdir proj_name
+    (vir_name) ~$ mkdir proj_name
     
     
     (vir_name) ~$cd proj_name
