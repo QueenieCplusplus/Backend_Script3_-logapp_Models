@@ -6,13 +6,15 @@ Django migrates with SQLite3 using shell and admin UI platform
 
 prepare virtual env =>
 
-    ~$ source proj_name/bin/activate
+    ~$ virtualenv -p /usr/bin/python3 vir_name
+
+    ~$ source vir_name/bin/activate
     
-    (proj_name) ~$cd proj_name
+    (vir_name) ~$cd proj_name
     
-    (proj_name) proj_name$ cd site_name
+    (vir_name) proj_name$ cd site_name
     
-    (proj_name) site_name$ ls
+    (vir_name) site_name$ ls
     
                    sub_site_name/
                    
