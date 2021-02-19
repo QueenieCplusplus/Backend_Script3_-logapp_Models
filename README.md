@@ -5,11 +5,18 @@ Django migrates with SQLite3 using shell and admin UI platform
 
 top level site cmd =>
 
+
     python manage.py runserver
 
     python manage.py makemigrations
 
     python manage.py migrate
+    
+ 
+ create a blog =>
+ 
+ 
+    python manage.py startapp kblog
     
     
  db operations =>
