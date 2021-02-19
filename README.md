@@ -3,6 +3,15 @@ Django migrates with SQLite3 using shell and admin UI platform
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Backend_Script3_-logapp_Models/main/18%20post2.png)
 
+top level site cmd =>
+
+    python manage.py runserver
+
+    python manage.py makemigrations
+
+    python manage.py migrate
+
+
 deprecated cmd => https://stackoverflow.com/questions/17392015/error-while-creating-a-model-in-django
 
 create superuser => https://developer.mozilla.org/zh-TW/docs/Learn/Server-side/Django/Admin_site
