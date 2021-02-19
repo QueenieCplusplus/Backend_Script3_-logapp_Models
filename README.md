@@ -3,6 +3,26 @@ Django migrates with SQLite3 using shell and admin UI platform
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Backend_Script3_-logapp_Models/main/18%20post2.png)
 
+
+prepare virtual env =>
+
+    ~$ source proj_name/bin/activate
+    
+    (proj_name) ~$cd proj_name
+    
+    (proj_name) proj_name$ cd site_name
+    
+    (proj_name) site_name$ ls
+    
+                   sub_site_name/
+                   
+                   manage.py
+                   
+                   (sqlite3 waits to be created)
+                   
+                   (blog app waits to be created)/
+
+
 top level site cmd =>
 
 
