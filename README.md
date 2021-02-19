@@ -6,7 +6,10 @@ Django migrates with SQLite3 using shell and admin UI platform
 
 prepare virtual env =>
 
-    ~$ virtualenv -p /usr/bin/python3 vir_name
+    ~$ which python3 
+    show >> path_to_be_copied
+
+    ~$ virtualenv -p path_to_be_copied vir_name
 
     ~$ source vir_name/bin/activate
     
