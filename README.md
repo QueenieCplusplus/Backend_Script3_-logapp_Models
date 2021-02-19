@@ -1,6 +1,8 @@
 # Backend_Script3_Blogapp_Models
 Django migrates with SQLite3 using shell and admin UI platform
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/Backend_Script3_-logapp_Models/main/18%20post2.png)
+
 deprecated cmd => https://stackoverflow.com/questions/17392015/error-while-creating-a-model-in-django
 
 create superuser => https://developer.mozilla.org/zh-TW/docs/Learn/Server-side/Django/Admin_site
