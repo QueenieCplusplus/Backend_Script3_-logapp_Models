@@ -37,7 +37,7 @@ prepare virtual env =>
                    (blog app waits to be created)/
 
 
-top level site cmd =>
+top level site cmd => (all manage.py cmd shall run under the top level site dir instead of sub level)
 
 
     python manage.py runserver
