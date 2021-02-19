@@ -13,6 +13,9 @@ prepare virtual env =>
 
     ~$ source vir_name/bin/activate
     
+    // to leave the virtualenv
+    (vir_name) ~$ deactivate 
+    
     $ pip list
     
     $ pip3 install django
